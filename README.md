@@ -33,4 +33,9 @@ Below table shows the food items and their locations and price of them.
 
 ---
 
+## Inspirational quotes
+
+> Be yourself; everyone else is already taken - *Oscar Wilde*     
+> Be the change that you wish to see in the world - *Mahathma Gandhi*
+
 
