@@ -16,3 +16,21 @@ Paris (nicknamed the **"City of light"**) is the capital city of France, and the
 * Power bank
 * Lays
 
+[AboutMeLink](AboutMe.md)
+
+---
+
+### Recommended food
+
+Below table shows the food items and their locations and price of them.
+
+|    Food Items   |     Location     |   Amount    |
+|   -----------   |    ----------    |  --------   |
+|Chicken Biryani  |   Hyderabad      |    300      |
+|Keema Pulav      |   Nizamabad      |    200      |
+|Mutton Biryani   |   Delhi          |    400      |
+|Kaju Barfi       |   Bengalore      |    550      |
+
+---
+
+
